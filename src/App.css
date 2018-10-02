@@ -32,7 +32,7 @@
   text-align: center;
   width: 3em;
   font-size: large;
-  box-shadow: 0 4px 8px red(0,2,0,0.2);
+  box-shadow: 0 4px 8px start(0,2,0,0.2);
   margin: 1em;
   user-select: none;
  }
