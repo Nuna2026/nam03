@@ -28,7 +28,7 @@
 }
 
 .card {
-  display: inline-block;
+  display: -webkit-box;
   text-align: center;
   width: 3em;
   font-size: large;
